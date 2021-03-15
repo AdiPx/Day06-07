@@ -1,0 +1,33 @@
+h1 {
+  float: center;
+  color: B11D1D;
+  font-size: 20px;
+  text-align: center;
+}
+
+div.gallery {
+  margin: 5px;
+  float: left;
+  width: 400px;
+  margin-left: 80px;
+}
+
+div.gallery img {
+  width: 100%;
+  height: 300px;
+}
+
+div.desc {
+  padding: 10px;
+  color: 33A1FF;
+  text-align: left;
+  font-size: 30px;
+}
+
+div.text {
+  padding: 10px;
+  color: 000000;
+  text-align: left;
+  font-size: 20px;
+}
+
